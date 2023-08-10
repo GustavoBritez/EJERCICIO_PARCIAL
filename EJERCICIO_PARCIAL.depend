@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691624094 source:c:\users\mecha\desktop\ejercicios\ejercicio_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
